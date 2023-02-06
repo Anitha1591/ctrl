@@ -24,5 +24,7 @@ public class Example {
 		{
 			System.out.println("The value of j is" +j);
 		}
-}
+	System.out.println("git practice");
+	System.out.println("making pull request");
+	}
 }
