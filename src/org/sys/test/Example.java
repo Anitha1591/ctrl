@@ -27,5 +27,9 @@ public class Example {
 		System.out.println("login details");
 		System.out.println("registration");
 		System.out.println("code by 2nd branch");
-}
+
+		System.out.println("git practice");
+		System.out.println("making pull request");
+		System.out.println("overwriting");
+	}
 }
